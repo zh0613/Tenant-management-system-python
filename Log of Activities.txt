@@ -1,0 +1,61 @@
+
+david
+2022-09-09 01:10:27,439:INFO:View Tenanat Details
+2022-09-09 01:10:29,205:INFO:View Apartment Details
+David
+2022-09-12 00:45:16,153:INFO:Viewing Tenanat Details
+2022-09-12 00:45:16,948:INFO:Viewing Apartment Details
+2022-09-12 00:45:17,538:INFO:Viewing Past Tenant Details
+2022-09-12 00:45:37,983:INFO:Searching Tenanat Details
+2022-09-12 00:46:02,671:INFO:Searching Tenanat Details
+2022-09-12 00:47:14,478:INFO:Searching Tenanat Details
+David
+2022-09-12 00:48:59,885:INFO:Searching Tenanat Details
+2022-09-12 00:49:59,762:INFO:Adding Tenanat Details
+David
+2022-09-12 00:55:26,508:INFO:Adding Tenanat Details
+2022-09-12 00:58:32,802:INFO:Modifying Tenanat Details
+2022-09-12 00:59:56,878:INFO:Modifying Tenanat Details
+David
+2022-09-12 01:11:06,875:INFO:Deleting Tenanat Details
+2022-09-12 01:11:19,799:INFO:Deleting Tenanat Details
+David
+David
+David
+2022-09-12 23:08:48,565:INFO:Viewing Tenanat Details
+2022-09-12 23:10:10,943:INFO:Searching Tenanat Details
+David
+2022-09-12 23:13:35,726:INFO:Searching Tenanat Details
+David
+2022-09-12 23:15:19,037:INFO:Searching Tenanat Details
+2022-09-12 23:15:45,749:INFO:Searching Tenanat Details
+2022-09-12 23:20:24,032:INFO:Adding Tenanat Details
+2022-09-12 23:21:10,322:INFO:Modifying Tenanat Details
+2022-09-12 23:21:30,337:INFO:Modifying Tenanat Details
+2022-09-12 23:21:50,791:INFO:Modifying Tenanat Details
+2022-09-12 23:23:08,754:INFO:Modifying Tenanat Details
+David
+2022-09-12 23:25:30,634:INFO:Deleting Tenanat Details
+John
+David
+2022-09-13 13:26:04,633:INFO:Viewing Tenanat Details
+2022-09-13 13:26:27,099:INFO:Viewing Apartment Details
+2022-09-13 13:26:39,515:INFO:Viewing Past Tenant Details
+2022-09-13 13:28:37,931:INFO:Searching Tenanat Details
+2022-09-13 13:29:43,122:INFO:Searching Tenanat Details
+David
+2022-09-14 15:12:34,232:INFO:Adding Tenanat Details
+2022-09-14 15:13:56,370:INFO:Modifying Tenanat Details
+2022-09-14 15:14:36,489:INFO:Deleting Tenanat Details
+David
+John
+2022-09-14 15:28:52,025:INFO:Viewing Tenanat Details
+2022-09-14 15:29:29,178:INFO:Searching Tenanat Details
+2022-09-14 15:29:50,494:INFO:Searching Tenanat Details
+David
+John
+2022-09-14 15:35:24,709:INFO:Viewing Tenanat Details
+2022-09-14 15:36:36,450:INFO:Searching Tenanat Details
+2022-09-14 15:37:09,402:INFO:Searching Tenanat Details
+David
+2022-09-14 17:09:32,542:INFO:Modifying Tenanat Details

@@ -1,0 +1,4 @@
+T001,Lim Zheng Hong,030613-07-0988,Female,19,Penang,Penang,012-3456789,RM 400,Alamak,-
+T002,Huh,030645-07-0912,Female,19,Selangor,Pahang,017-5531479,RM 400,Aba,- 
+T003,Kun,939612-04-5304,Female,19,Penang,Penang,012-3375151,RM 600,Lily,2016: worker| 2017: Teacher
+T004,Lim Zheng Hong,030613-08-0975,Male,18,Penang,Kedah,012-3456789,RM 400,Abu,-
